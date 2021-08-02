@@ -1,0 +1,9 @@
+建立可部署環境：
+  1. 用CONDA建立虛擬環境
+  2. 在虛擬環境安裝套件
+  3. 運行程式 確認正常
+  4. export 當前虛擬環境設定檔
+     requirements.txt
+     environment.yml
+
+
